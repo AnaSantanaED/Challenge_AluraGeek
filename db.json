@@ -1,0 +1,28 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Coelho de Pelúcia",
+      "preco": "R$ 39,90",
+      "imagem": "Imagens/Coelho de Pelúcia.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Girafa de Pelúcia",
+      "preco": "R$ 180,62",
+      "imagem": "Imagens/Girafa de Pelúcia.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Leão de Pelúcia",
+      "preco": "R$ 55,33",
+      "imagem": "Imagens/Leão de Pelúcia.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Urso de Pelúcia",
+      "preco": "R$ 49,90",
+      "imagem": "Imagens/Urso de Pelúcia.jpg"
+    }
+  ]
+}
