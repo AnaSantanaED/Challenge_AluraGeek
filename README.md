@@ -18,3 +18,7 @@ Este projeto é uma aplicação de e-commerce desenvolvida como parte do Challen
 
 **Autora**
 *Desenvolvido por Ana Santana.*
+
+**Visualização**
+
+https://challenge-alura-geek-kappa.vercel.app/
